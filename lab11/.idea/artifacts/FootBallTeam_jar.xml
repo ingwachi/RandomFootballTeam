@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FootBallTeam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FootBallTeam_jar</output-path>
+    <root id="archive" name="FootBallTeam.jar">
+      <element id="module-output" name="FootBallTeam" />
+    </root>
+  </artifact>
+</component>
